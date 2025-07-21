@@ -1,0 +1,16 @@
+streamlit
+openai
+whisper
+openai-whisper
+numpy
+tensorflow
+keras
+paddleocr
+reportlab
+PyPDF2
+sounddevice
+scipy
+silero-vad
+gtts
+pygame
+paddlepaddle
